@@ -5,6 +5,14 @@ In this project, we are implementing a GNU assembly language program that interp
 single line of postfix expression involving decimal quantities and outputs the equivalent RISC-V 32-
 bit machine language instructions.
 
+````
+in order to run the program
+
+make
+./postfix_translator
+
+and then provide the postfix expression
+````
 
 Introduction to RISC-V
 RISC-V is an open-source instruction set architecture (ISA) that is based on established reduced instruction set computing (RISC) principles. Unlike proprietary ISAs, RISC-V can be freely used for any
