@@ -13,6 +13,7 @@ make
 and then provide the postfix expression
 
 Introduction to RISC-V
+
 RISC-V is an open-source instruction set architecture (ISA) that is based on established reduced instruction set computing (RISC) principles. Unlike proprietary ISAs, RISC-V can be freely used for any
 purpose, allowing hardware designers and software developers to create more customized and optimized
 computing systems. In this project, you will be utilizing the RISC-V 32-bit ISA, focusing specifically
@@ -21,6 +22,7 @@ and logical operations directly on the processor.
 
 
 Technical Specifications
+
 Your program should convert the postfix expressions to the corresponding RISC-V machine language
 code. You must only use I-type and R-type instruction formats as outlined in the RISC-V user-level ISA
 manual, which you can reference here: https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/
