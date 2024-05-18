@@ -28,3 +28,9 @@ code. You must only use I-type and R-type instruction formats as outlined in the
 manual, which you can reference here: https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/
 notebooks/RISCV/RISCV_CARD.pdf. Additional resources on RISC-V programming can be found at:
 https://inst.eecs.berkeley.edu/~cs61c/resources/su18_lec/Lecture7.pdf.
+
+if you find any mistake or encounter any problem feel free to reach me
+
+Thank you :)
+
+Mustafa Taha Söylemez - 2024
